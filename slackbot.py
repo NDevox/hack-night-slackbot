@@ -3,7 +3,7 @@ import time
 
 from slacker import Slacker
 
-SLACK = Slacker('xoxp-22553246598-22551165396-22557262081-2adaa923c5')
+SLACK = Slacker('<enter API key here>')
 
 quotes = {'Groucho Marx': ['A likely story — and probably true.', "Although it is generally known, I think it's about time to announce that I was born at a very early age.",
                            "I sent the club a wire stating, 'PLEASE ACCEPT MY RESIGNATION. I DON'T WANT TO BELONG TO ANY CLUB THAT WILL ACCEPT PEOPLE LIKE ME AS A MEMBER'",
